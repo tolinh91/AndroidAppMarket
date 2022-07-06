@@ -33,7 +33,9 @@ apps['Installs'] = apps['Installs'].astype(float)
 apps['Price'] = apps['Price'].astype(float)
 
 # Checking dtypes of the apps dataframe
-print(apps.info())```
+print(apps.info())
+```
+
 
 #Task 4: With more than 1 billion active users in 190 countries around the world, Google Play continues to be an important distribution platform to build a global audience. For businesses to get their apps in front of users, it's important to make them more quickly and easily discoverable on Google Play. To improve the overall search experience, Google has introduced the concept of grouping apps into categories.
 
